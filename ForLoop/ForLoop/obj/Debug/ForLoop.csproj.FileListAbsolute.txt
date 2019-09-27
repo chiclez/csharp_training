@@ -1,0 +1,6 @@
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Solutions\experiments\csharp_training\ForLoop\ForLoop\obj\Debug\ForLoop.pdb
