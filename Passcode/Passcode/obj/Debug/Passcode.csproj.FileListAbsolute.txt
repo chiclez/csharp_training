@@ -1,0 +1,6 @@
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\bin\Debug\Passcode.exe.config
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\bin\Debug\Passcode.exe
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\bin\Debug\Passcode.pdb
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\obj\Debug\Passcode.csproj.CoreCompileInputs.cache
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\obj\Debug\Passcode.exe
+C:\Solutions\experiments\csharp_training\Passcode\Passcode\obj\Debug\Passcode.pdb
