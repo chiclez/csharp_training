@@ -1,0 +1,7 @@
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\bin\Debug\StudentManagerV2.exe.config
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\bin\Debug\StudentManagerV2.exe
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\bin\Debug\StudentManagerV2.pdb
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\obj\Debug\StudentManagerV2.csproj.CoreCompileInputs.cache
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\obj\Debug\StudentManagerV2.exe
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\obj\Debug\StudentManagerV2.pdb
+C:\Solutions\experiments\csharp_training\StudentManagerV2\StudentManagerV2\obj\Debug\StudentManagerV2.csprojAssemblyReference.cache
