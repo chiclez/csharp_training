@@ -1,2 +1,2 @@
 # csharp_training
-c sharp training 
+Here are all the solutions built during the C# training. Enjoy
